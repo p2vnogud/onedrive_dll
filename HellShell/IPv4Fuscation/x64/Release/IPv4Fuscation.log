@@ -1,0 +1,10 @@
+﻿  Ipv4Fuscation.cpp
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\HellShell\IPv4Fuscation\Ipv4Fuscation.cpp(44,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\HellShell\IPv4Fuscation\Ipv4Fuscation.cpp(44,9):
+      consider using '%zd' in the format string
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  IPv4Fuscation.vcxproj -> E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\HellShell\x64\Release\IPv4Fuscation.exe

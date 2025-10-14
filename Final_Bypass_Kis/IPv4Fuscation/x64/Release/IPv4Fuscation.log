@@ -1,0 +1,13 @@
+﻿  Ipv4Fuscation.cpp
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\IPv4Fuscation\Ipv4Fuscation.cpp(44,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\IPv4Fuscation\Ipv4Fuscation.cpp(44,9):
+      consider using '%zd' in the format string
+  
+  Generating code
+  4 of 5 functions (80.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  IPv4Fuscation.vcxproj -> E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\x64\Release\IPv4Fuscation.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

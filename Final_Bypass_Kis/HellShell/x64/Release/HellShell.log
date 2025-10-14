@@ -1,0 +1,101 @@
+﻿  HellShell.cpp
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\Common.h(7,16): warning C4091: 'typedef ': ignored on left of 'MyStruct' when no variable is declared
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\Common.h(33,59): warning C4474: 'printf' : too many arguments passed for format string
+  (compiling source file 'HellShell.cpp')
+      E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\Common.h(33,59):
+      placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\Common.h(65,35): warning C4244: 'argument': conversion from 'SIZE_T' to 'int', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\Common.h(67,29): warning C4244: '=': conversion from 'SIZE_T' to 'int', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv4fuscation.h(42,50): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv4fuscation.h(43,77): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv4fuscation.h(54,48): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv4fuscation.h(59,48): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv4fuscation.h(63,48): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv4fuscation.h(70,47): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv4fuscation.h(72,50): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv4fuscation.h(73,55): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv6fuscation.h(65,50): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv6fuscation.h(66,77): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv6fuscation.h(82,48): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv6fuscation.h(87,48): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv6fuscation.h(91,48): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv6fuscation.h(98,47): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv6fuscation.h(100,50): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv6fuscation.h(101,55): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv6fuscation.h(69,11): warning C4101: 'HexVal': unreferenced local variable
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\MacFuscation.h(42,50): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\MacFuscation.h(43,76): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\MacFuscation.h(54,49): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\MacFuscation.h(59,49): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\MacFuscation.h(63,48): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\MacFuscation.h(71,47): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\MacFuscation.h(73,50): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\MacFuscation.h(74,55): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'HellShell.cpp')
+  
+  Generating code
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\MacFuscation.h(21): warning C4172: returning address of local variable or temporary : Output
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv4fuscation.h(20): warning C4172: returning address of local variable or temporary : Output
+E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\HellShell\ipv6fuscation.h(42): warning C4172: returning address of local variable or temporary : result
+  172 of 178 functions (96.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HellShell.vcxproj -> E:\2-2025\TanCongMang\HR\2024\Cau_2\KIS_BYPASS\Final_Bypass_Kis\x64\Release\HellShell.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
